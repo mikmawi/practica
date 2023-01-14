@@ -4,7 +4,7 @@
      "ranking":10
     },
     {"alumno":"Juan",
-     "nota":4,
+     "nota":9,
      "ranking":150
     },
     {"alumno":"barCris",
@@ -12,19 +12,19 @@
      "ranking":110
     },  
     {"alumno":"Carlangas",
-     "nota":9,
+     "nota":7,
      "ranking":200
     },
     {"alumno":"Luca",
-     "nota":10,
+     "nota":6,
      "ranking":150
     },
     {"alumno":"German",
-     "nota":8,
+     "nota":5,
      "ranking":10
     },
     {"alumno":"Adriana",
-     "nota":9.5,
+     "nota":4,
      "ranking":30
     }
 ]
