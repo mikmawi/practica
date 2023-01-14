@@ -1,11 +1,11 @@
 [
     {"alumno":"Mauricio",
-     "nota":7,
-     "ranking":220
+     "nota":10,
+     "ranking":10
     },
     {"alumno":"Juan",
      "nota":4,
-     "ranking":1500
+     "ranking":150
     },
     {"alumno":"barCris",
      "nota":8,
