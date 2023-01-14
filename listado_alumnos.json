@@ -1,7 +1,7 @@
 [
     {"alumno":"Mauricio",
      "nota":10,
-     "ranking":10
+     "ranking":90
     },
     {"alumno":"Juan",
      "nota":9,
@@ -9,22 +9,22 @@
     },
     {"alumno":"barCris",
      "nota":8,
-     "ranking":110
+     "ranking":210
     },  
     {"alumno":"Carlangas",
      "nota":7,
-     "ranking":200
+     "ranking":270
     },
     {"alumno":"Luca",
      "nota":6,
-     "ranking":150
+     "ranking":330
     },
     {"alumno":"German",
      "nota":5,
-     "ranking":10
+     "ranking":390
     },
     {"alumno":"Adriana",
      "nota":4,
-     "ranking":30
+     "ranking":400
     }
 ]
